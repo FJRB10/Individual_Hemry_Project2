@@ -17,3 +17,17 @@ En este proyecto se utilizó el lenguaje de programación Python en cuadernos de
 Otra herramienta empleada en el proyecto fue Power BI, elegida por su facilidad de uso y la experiencia previa con la misma.
 
 
+## Metodología
+
+1. Se reviso el datset de internet en excel y se vio por encima que tipo de datos tenia.
+2. Se trajieron todas las hojas al cuaderno de Jupyter para empezar a hacer el anaálisis EDA.
+3. Se revidaron primero los valores nulos y los valores iguales a cero.
+4. Despúes se revisaron los valores duplicados.
+5. Después se revisaron los outliers.
+6. Después se reviso los datos con graficas de dispersión y con graficas de lineas, ya que casi todos los datos tienen tiempo.
+7. Se prosiguio con la exportación de los dataframes modificados para después importarlos en PowerBi.
+8. Se realizo el dashboard en PowerBI.
+
+
+## Análisis
+
