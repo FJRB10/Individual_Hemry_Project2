@@ -1,2 +1,8 @@
 Datasets/*
 !Datasets/Internet.xlsx
+
+Dashboard.Report/
+Dashboard.SemanticModel/
+Dashboard.pbip
+
+Internet_modificado2.xlsx
